@@ -8,8 +8,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Enter your name");
-            string x = Console.ReadLine();
-            Console.WriteLine($"Hello World {x}!"); // добавление комментария
+            string name = Console.ReadLine();
+            Console.WriteLine($"Hello World {name}!"); // добавление комментария
         }
     }
 }
