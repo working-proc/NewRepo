@@ -1,5 +1,5 @@
 ﻿using System;
-using namespace std;
+
 namespace ConsoleApp1
 {
     class Program
