@@ -9,7 +9,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Enter your name");
             string x = Console.ReadLine();
-            Console.WriteLine($"Hello World {x}!");
+            Console.WriteLine($"Hello World {x}!"); // добавление комментария
         }
     }
 }
